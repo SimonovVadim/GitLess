@@ -11,6 +11,7 @@ namespace KL_AE_Config
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
+		// My project
         [STAThread]
         static void Main()
         {
